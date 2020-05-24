@@ -96,6 +96,4 @@ int main()
     // EX. 9.2: use the Monte Carlo method
     // EX. 9.3: change fitness score with the ordinals of scoring
     // EX. mine: use std::discrete_distribution
-
-    
 }
