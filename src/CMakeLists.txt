@@ -6,4 +6,5 @@ add_executable(nature-of-code main.cpp)
 target_link_libraries(nature-of-code
   PRIVATE
   fmt::fmt-header-only
-  spdlog::spdlog_header_only)
+  spdlog::spdlog_header_only
+  )
